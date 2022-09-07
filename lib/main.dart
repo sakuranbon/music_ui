@@ -392,7 +392,6 @@ class _MyHomePageState extends State<MyHomePage> {
           type: BottomNavigationBarType.fixed,
           backgroundColor: Color(0xff404040),
         ),
-
       );
     }
   }
